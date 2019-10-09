@@ -1,0 +1,8 @@
+.playing {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  border-color: #ffc600;
+  -webkit-box-shadow: 0 0 1rem #ffc600;
+  box-shadow: 0 0 1rem #ffc600;
+}
